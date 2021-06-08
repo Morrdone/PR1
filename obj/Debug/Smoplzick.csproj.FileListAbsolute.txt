@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Smoplzick\bin\Debug\Smoplzick.exe.config
+C:\Users\student\source\repos\Smoplzick\bin\Debug\Smoplzick.exe
+C:\Users\student\source\repos\Smoplzick\bin\Debug\Smoplzick.pdb
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Smoplzick\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\Smoplzick\obj\Debug\App.g.cs
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick_MarkupCompile.cache
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick_MarkupCompile.lref
+C:\Users\student\source\repos\Smoplzick\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick.g.resources
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick.Properties.Resources.resources
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick.exe
+C:\Users\student\source\repos\Smoplzick\obj\Debug\Smoplzick.pdb
